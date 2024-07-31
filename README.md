@@ -1,7 +1,5 @@
 ﻿# viva-engine
 
-![alt text](logo.png)
-
 6 hours inital engine, submitted to innovateX hack
 
 help goes to [Coding Adventure: Chess](https://www.youtube.com/watch?v=U4ogK0MIzqk) who wrote a chess engine C lang - his video helped me understand key concepts
