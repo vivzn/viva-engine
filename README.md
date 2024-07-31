@@ -2,17 +2,20 @@
 
 ![alt text](logo.png)
 
-made in 6 hours
+6 hours inital engine, submitted to innovateX hack
 
-current features: 
+help goes to [Coding Adventure: Chess](https://www.youtube.com/watch?v=U4ogK0MIzqk) who wrote a chess engine C lang - his video helped me understand key concepts
 
-alphabeta pruning,
-quiescence search,
-iterative depth,
+## includes alphabeta pruning, quiescence search, and transposition table.
 
-thats it, no idea what elo it is - lot better than me tho :[
+a.b pruning -> cut off unneccessary branches that wont be used anyway
+quinscece search -> extend minimax depth for 'quiet' positions
+transpo table -> stores previous tables to stop redundunt calculations 
 
-for innovateX hack
+## future possible features:
+
+add opening & endgame books into the engine to make it smarter
+
 
 # instructions to run
 
